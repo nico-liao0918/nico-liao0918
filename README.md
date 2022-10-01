@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nico-liao0918
 - 👀 I’m interested in AI, App Development (IOS)
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, html and css
 - 💞️ I’m looking to collaborate on a project of creating an AI just like Jarvis in Iron Man movie, and to develop a mobile app that would benefit both the user and developer.
 - 📫 How to reach me by Messenger App @nicoliao09, WhatsApp +639151472310 
