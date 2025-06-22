@@ -18,6 +18,7 @@
 ![HTML Badge](https://img.shields.io/badge/HTML-5-orange)  
 ![CSS Badge](https://img.shields.io/badge/CSS-3-blue)  
 ![Python Badge](https://img.shields.io/badge/Python-3.9-blue)  
+![Python Badge](https://img.shields.io/badge/Python-3.9-blue)  
 ![VS Code Badge](https://img.shields.io/badge/VS%20Code-Editor-blue)  
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-IDE-purple)
 
